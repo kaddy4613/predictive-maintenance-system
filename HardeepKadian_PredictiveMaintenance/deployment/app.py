@@ -217,7 +217,7 @@ input_data = pd.DataFrame([{
 
     'lub oil temp': lub_oil_temp,
 
-    'Coolant temp': coolant_temp
+    'Coolant temp': coolant_temp,
 
     '__index_level_0__': 0
 
